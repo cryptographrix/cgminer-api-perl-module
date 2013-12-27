@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# = cgminer_api.pm
+# = CGminer.pm
 #
 # == Description
 #
