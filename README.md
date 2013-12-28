@@ -3,7 +3,9 @@
 This is a perl module for the cgminer api.
 
 Use the functions in here like:
-```CGminer::pools();
+```
+CGminer::pools();
+```
 
 Requires the following perl modules:
 * JSON
